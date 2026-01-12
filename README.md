@@ -1,3 +1,7 @@
+![banner](https://your-banner-image)
+
+![Typing SVG](https://readme-typing-svg.demolab.com?color=808080&lines=Backend+Developer;Java+%26+Spring+Boot;RESTful+API+Design;Performance+Matters)
+
 # 👋 Hi, I'm Harun
 
 Backend Developer focused on **Java & Spring Boot**  
@@ -7,8 +11,9 @@ Problem-solving oriented, performance-aware, team-experienced.
 
 ## 🚀 About Me
 - Java / Spring Boot 기반 백엔드 개발자
-- 엔터테인먼트 업계 매니저 **7년 경력** (협업·커뮤니케이션 강점)
+- 엔터테인먼트 업계 아티스트 매니저 **7년 경력**
 - 확장성과 성능을 고려한 서버 설계에 관심
+- 인증/인가 설계를 통한 **고객 데이터 보호와 서비스 신뢰성**에 관심
 
 ---
 
