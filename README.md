@@ -32,7 +32,7 @@ Problem-solving oriented, performance-aware, team-experienced.
 - QueryDSL 기반 동적 조건 검색
 - nGrinder 부하 테스트로 성능 검증
 
-👉 Repo: https://github.com/jyop1212hy/search-movie
+👉 Repo: https://github.com/jyop1212hy/SearchMovie.git
 
 ---
 
