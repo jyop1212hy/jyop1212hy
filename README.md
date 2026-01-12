@@ -13,13 +13,13 @@ Problem-solving oriented, performance-aware, team-experienced.
 ---
 
 ## 🛠 Tech Stack
-![Java](https://img.shields.io/badge/Java-17-blue)  
-![Spring](https://img.shields.io/badge/Spring_Boot-3-green)  
-![JPA](https://img.shields.io/badge/JPA-Hibernate-orange)  
+![Java](https://img.shields.io/badge/Java-17-blue) 
+![Spring](https://img.shields.io/badge/Spring_Boot-3-green) 
+![JPA](https://img.shields.io/badge/JPA-Hibernate-orange) 
 ![QueryDSL](https://img.shields.io/badge/QueryDSL-5-blueviolet)  
-![MySQL](https://img.shields.io/badge/MySQL-8.0-orange)  
-![Redis](https://img.shields.io/badge/Redis-red)  
-![Docker](https://img.shields.io/badge/Docker-blue)  
+![MySQL](https://img.shields.io/badge/MySQL-8.0-orange) 
+![Redis](https://img.shields.io/badge/Redis-red) 
+![Docker](https://img.shields.io/badge/Docker-blue) 
 ![AWS](https://img.shields.io/badge/AWS-EC2%20%7C%20RDS-yellow)
 
 ---
@@ -41,7 +41,7 @@ Problem-solving oriented, performance-aware, team-experienced.
 - 사용자 / 댓글 / 권한 기반 CRUD 구현
 - 프론트엔드 요구에 맞춘 API 설계 경험
 
-👉 Repo: https://github.com/jyop1212hy/outsourcing-projects
+👉 Repo: https://github.com/jyop1212hy/outsourcing-projects.git
 
 ---
 
@@ -50,7 +50,7 @@ Problem-solving oriented, performance-aware, team-experienced.
 - 페이지네이션 및 정렬 처리
 - REST API 설계 경험
 
-👉 Repo: https://github.com/jyop1212hy/newsfeed-project
+👉 Repo: https://github.com/jyop1212hy/newsfeed-project.git
 
 ---
 
