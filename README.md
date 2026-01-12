@@ -1,6 +1,9 @@
-![banner](https://your-banner-image)
+<p align="center">
+  <img src="./banner-wood.png" width="100%" height="220" />
+</p>
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?color=808080&lines=Backend+Developer;Java+%26+Spring+Boot;RESTful+API+Design;Performance+Matters)
+
 
 # 👋 Hi, I'm Harun
 
