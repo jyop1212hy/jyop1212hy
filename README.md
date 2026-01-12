@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./banner-wood-name.png" width="100%" />
+  <img src="./banner-wood.png" width="100%" />
 </p>
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?color=808080&lines=Backend+Developer;Java+%26+Spring+Boot;RESTful+API+Design;Performance+Matters)
@@ -65,12 +65,6 @@ Problem-solving oriented, performance-aware, team-experienced.
 ## 📊 GitHub Stats
 
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=jyop1212hy&layout=compact&langs_count=6)
-
----
-
-## ✨ Typing
-
-![Typing SVG](https://readme-typing-svg.demolab.com?color=808080&lines=Backend+Developer;Java+%26+Spring+Boot;RESTful+API+Design;Performance+Matters)
 
 ---
 
