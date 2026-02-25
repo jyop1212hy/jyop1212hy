@@ -46,8 +46,8 @@ Problem-solving oriented, performance-aware, team-experienced.
 - Redis, Elasticsearch, RabbitMQ
 - Docker, AWS EC2
 
-👉 Repo: https://github.com/<YOUR_ORG_OR_ID>/zero9.git
-👉 Demo/Docs: Notion or Swagger URL 있으면 추가
+👉 Repo: https://github.com/jyop1212hy/Zero9-Platform.git
+👉 Docs: [Notion](https://www.notion.so/teamsparta/4-2ff2dc3ef514807795f4dd11a5bc51b0#30c2dc3ef514808fae2ecaa16bbfc7e6)
   
 ---
 
