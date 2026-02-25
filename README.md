@@ -34,6 +34,23 @@ Problem-solving oriented, performance-aware, team-experienced.
 
 ## 📌 Team Projects
 
+### 🛍️ Zero9 (Final Project)
+- 인스타그램 기반 공동구매 정보 통합 플랫폼
+- 인플루언서/일반 유저 분리 회원가입 및 권한(Role) 설계
+- 공동구매 게시물(정보 공유) + 상품판매 게시물(실제 판매) 기능
+- 검색(Elasticsearch) / 랭킹(Redis ZSet) / 비동기 처리(RabbitMQ) 기반 성능/확장 고려
+- AWS EC2 + Docker Compose 배포, RDS(MySQL) 연동
+  
+### Key Tech
+- Spring Boot, JPA, QueryDSL, MySQL(RDS)
+- Redis, Elasticsearch, RabbitMQ
+- Docker, AWS EC2
+
+👉 Repo: https://github.com/<YOUR_ORG_OR_ID>/zero9.git
+👉 Demo/Docs: Notion or Swagger URL 있으면 추가
+  
+---
+
 ### 🎬 SearchMovie
 - 영화 검색 서비스
 - Redis 캐시 적용으로 조회 성능 개선
