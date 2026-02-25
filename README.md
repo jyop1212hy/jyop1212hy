@@ -80,14 +80,6 @@ Problem-solving oriented, performance-aware, team-experienced.
 
 ---
 
-## 📊 GitHub Stats
-
-!![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jyop1212hy&layout=compact&langs_count=6)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jyop1212hy&layout=compact&langs_count=6)
-
----
-
 ## 📫 Contact
 - Email: jyour@icloud.com
 - GitHub: https://github.com/jyop1212hy
