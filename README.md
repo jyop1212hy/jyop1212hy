@@ -81,5 +81,5 @@ Problem-solving oriented, performance-aware, team-experienced.
 ---
 
 ## 📫 Contact
-- Email: jyour@icloud.com
+- Email: jyop1212@icloud.com
 - GitHub: https://github.com/jyop1212hy
